@@ -9,14 +9,18 @@ Swift4 教材
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2 搭建iOS开发环境
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3 开发第一个iOS应用程序
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4 iOS应用程序结构分析
-#### &nbsp;&nbsp; 第二章 量值与基本数据类型
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课后习题
+#### &nbsp;&nbsp; 第二章 数据类型与运算
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1 变量与常量
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2 基础数据类型
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3 两种特殊的基本数据类型（元组、可选值类型）
-#### &nbsp;&nbsp; 第三章 字符、字符串与集合类型
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1 字符类型
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2 字符串类型
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3 集合类型 （数组、集合、字典）
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2 基础数据类型（布尔、int、浮点、字符、字符串）
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3 运算符
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课后习题
+#### &nbsp;&nbsp; 第三章 元组与集合类型
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1 元组
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2 数组
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3 集合
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4 字典
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课后习题
 #### &nbsp;&nbsp; 第四章 程序流程控制
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1
 ###### &nbsp;&nbsp;&nbsp;
