@@ -24,9 +24,10 @@ Swift4 教材
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课后习题
 #### &nbsp;&nbsp; 第四章 元组与集合类型
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1 元组
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2 数组
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3 集合
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.4 字典
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2 集合类型和可变性
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3 数组
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.4 集合
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.5 字典
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课后习题
 #### &nbsp;&nbsp; 第五章 函数
 ###### &nbsp;&nbsp;&nbsp;
