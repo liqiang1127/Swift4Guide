@@ -16,15 +16,17 @@ Swift4 教材
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3 运算符
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课后习题
 #### &nbsp;&nbsp; 第三章 程序流程控制
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1 
-###### &nbsp;&nbsp;&nbsp;
-###### &nbsp;&nbsp;&nbsp;
-###### &nbsp;&nbsp;&nbsp;
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1 for-in循环
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2 while循环
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3 条件语句
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4 控制转移语句
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.5 提前退出(guard)
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课后习题
 #### &nbsp;&nbsp; 第四章 元组与集合类型
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1 元组
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2 数组
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3 集合
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.4 字典
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1 元组
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2 数组
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3 集合
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.4 字典
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课后习题
 #### &nbsp;&nbsp; 第五章 函数
 ###### &nbsp;&nbsp;&nbsp;
