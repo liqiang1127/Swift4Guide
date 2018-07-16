@@ -30,10 +30,14 @@ Swift4 教材
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.5 字典
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课后习题
 #### &nbsp;&nbsp; 第五章 函数
-###### &nbsp;&nbsp;&nbsp;
-###### &nbsp;&nbsp;&nbsp;
-###### &nbsp;&nbsp;&nbsp;
-###### &nbsp;&nbsp;&nbsp;
+###### &nbsp;&nbsp;&nbsp;5.1 函数的介绍
+###### &nbsp;&nbsp;&nbsp;5.2 无参函数和有参函数的使用
+###### &nbsp;&nbsp;&nbsp;5.3 函数参数的注意事项
+###### &nbsp;&nbsp;&nbsp;5.4 函数的返回值
+###### &nbsp;&nbsp;&nbsp;5.5 函数类型
+###### &nbsp;&nbsp;&nbsp;5.6 函数类型作为参数类型
+###### &nbsp;&nbsp;&nbsp;5.7 函数类型作为返回类型
+###### &nbsp;&nbsp;&nbsp;5.8 函数的嵌套
 #### &nbsp;&nbsp; 第六章 枚举与结构体
 #### &nbsp;&nbsp; 第七章 类
 ###### &nbsp;&nbsp;&nbsp;7.1 类的概念
@@ -45,7 +49,8 @@ Swift4 教材
 ###### &nbsp;&nbsp;&nbsp;7.7 类的继承
 ###### &nbsp;&nbsp;&nbsp;7.8 类的引用特征
 #### &nbsp;&nbsp; 第八章 拓展、协议和其他
----
+###### &nbsp;&nbsp;&nbsp;8.1 扩展
+###### &nbsp;&nbsp;&nbsp;8.2 协议
 ### 第二部分 IOS开发
 #### &nbsp;&nbsp; 第九章 iOS基础界面编程
 #### &nbsp;&nbsp; 第十章 iOS高级界面编程
