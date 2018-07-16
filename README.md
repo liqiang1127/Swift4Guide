@@ -35,6 +35,9 @@ Swift4 教材
 ###### &nbsp;&nbsp;&nbsp;
 ###### &nbsp;&nbsp;&nbsp;
 #### &nbsp;&nbsp; 第六章 枚举与结构体
+###### &nbsp;&nbsp;&nbsp;6.1枚举类型的创建与应用
+###### &nbsp;&nbsp;&nbsp;6.2枚举的原始值与相关值
+###### &nbsp;&nbsp;&nbsp;6.3Swift结构体
 #### &nbsp;&nbsp; 第七章 类
 ###### &nbsp;&nbsp;&nbsp;7.1 类的概念
 ###### &nbsp;&nbsp;&nbsp;7.2 类的创建
