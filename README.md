@@ -29,7 +29,7 @@ Swift4 教材
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.4 集合
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.5 字典
 ###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课后习题
-#### &nbsp;&nbsp; 第五章 函数
+#### &nbsp;&nbsp; 第五章 函数和闭包
 ###### &nbsp;&nbsp;&nbsp;5.1 函数的介绍
 ###### &nbsp;&nbsp;&nbsp;5.2 无参函数和有参函数的使用
 ###### &nbsp;&nbsp;&nbsp;5.3 函数参数的注意事项
@@ -38,6 +38,9 @@ Swift4 教材
 ###### &nbsp;&nbsp;&nbsp;5.6 函数类型作为参数类型
 ###### &nbsp;&nbsp;&nbsp;5.7 函数类型作为返回类型
 ###### &nbsp;&nbsp;&nbsp;5.8 函数的嵌套
+###### &nbsp;&nbsp;&nbsp;5.9 闭包简介
+###### &nbsp;&nbsp;&nbsp;5.10 闭包的表达和调用
+###### &nbsp;&nbsp;&nbsp;5.11 尾随闭包
 #### &nbsp;&nbsp; 第六章 枚举与结构体
 #### &nbsp;&nbsp; 第七章 类
 ###### &nbsp;&nbsp;&nbsp;7.1 类的概念
