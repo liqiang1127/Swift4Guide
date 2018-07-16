@@ -38,3 +38,26 @@ print(MathTool.sum(num1: 3, num2: 4))
 print(MathTool.multiply(num1: 2, num2: 5))
 //打印 10
 
+var fileManager:FileManager? = FileManager()
+fileManager!.loadFile()
+fileManager!.writeFile()
+fileManager = nil
+
+
+var dog = Dog()
+dog.run()
+//打印 I'm running
+dog.say()
+//打印 I'm a dog,my name is doggy
+
+
+let dog1 = Dog()
+print("修改前dog1的名字是\(dog1.name)")
+//打印 修改前dog1的名字是doggy
+let dog2 = dog1
+dog2.name = "Swift"
+
+print("修改后dog1的名字\(dog1.name)")
+//打印 修改后dog1的名字Swift
+print("修改后dog2的名字\(dog2.name)")
+//打印 修改后dog2的名字Swift

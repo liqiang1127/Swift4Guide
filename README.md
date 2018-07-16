@@ -36,6 +36,14 @@ Swift4 教材
 ###### &nbsp;&nbsp;&nbsp;
 #### &nbsp;&nbsp; 第六章 枚举与结构体
 #### &nbsp;&nbsp; 第七章 类
+###### &nbsp;&nbsp;&nbsp;7.1 类的概念
+###### &nbsp;&nbsp;&nbsp;7.2 类的创建
+###### &nbsp;&nbsp;&nbsp;7.3 类属性的set和get方法
+###### &nbsp;&nbsp;&nbsp;7.4 属性观察器
+###### &nbsp;&nbsp;&nbsp;7.5 类的静态方法
+###### &nbsp;&nbsp;&nbsp;7.6 类的析构
+###### &nbsp;&nbsp;&nbsp;7.7 类的继承
+###### &nbsp;&nbsp;&nbsp;7.8 类的引用特征
 #### &nbsp;&nbsp; 第八章 拓展、协议和其他
 ---
 ### 第二部分 IOS开发
