@@ -57,6 +57,9 @@ Swift4 教材
 #### &nbsp;&nbsp; 第八章 拓展、协议和其他
 ###### &nbsp;&nbsp;&nbsp;8.1 扩展
 ###### &nbsp;&nbsp;&nbsp;8.2 协议
+#### &nbsp;&nbsp; 第九章 内存管理和异常处理
+###### &nbsp;&nbsp;&nbsp;
+###### &nbsp;&nbsp;&nbsp;
 ### 第二部分 IOS开发
 #### &nbsp;&nbsp; 第九章 iOS基础界面编程
 #### &nbsp;&nbsp; 第十章 iOS高级界面编程
